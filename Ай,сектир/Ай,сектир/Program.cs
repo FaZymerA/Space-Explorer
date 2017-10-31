@@ -10,6 +10,8 @@ namespace Ай_сектир
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello!");
+            Console.WriteLine("push ");
         }
     }
 }
