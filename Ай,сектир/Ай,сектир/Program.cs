@@ -12,6 +12,7 @@ namespace Ай_сектир
         {
             Console.WriteLine("Hello!");
             Console.WriteLine("push ");
+            Console.WriteLine(2+2);
         }
     }
 }
